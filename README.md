@@ -10,7 +10,12 @@ Semester 5 project
 - [License](#license)
 - [Contact](#contact)
 ## Introduction
-The Fingerprint Database System is a software application designed to manage user identities and associated fingerprint data. It allows users to enroll their fingerprints and the code number we get from the fingerprinter, we use it to add users with that code Number, and using the software we can add the the details once you add new user. 
+The fingerPrinterProject_ICE48D is a software application designed to manage user identities and associated fingerprint data. It allows users to enroll their fingerprints and the code number we get from the fingerprinter, we use it to add users with that code Number, and using the software we can add the details once you add a new user. 
 
-EveryTime user read the finger details of the user shows following details.
+Every time user read the finger details the user shows the following details.
+        1  .Name
+        2  .Time
+        3  .Index number
+  
+        
 
